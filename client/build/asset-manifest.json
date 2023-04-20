@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c99f2595.css",
+    "main.js": "/static/js/main.2d15a857.js",
+    "static/media/mainBg.png": "/static/media/mainBg.e34bf0d4302e033a4b03.png",
+    "static/media/a-rhino.jpg": "/static/media/a-rhino.73fe918041c1fee2fb98.jpg",
+    "static/media/writer.jpg": "/static/media/writer.f06fca54c21ce8c6696a.jpg",
+    "static/media/loin&loiness.jpg": "/static/media/loin&loiness.a84f1b1d9867e7fb00ef.jpg",
+    "static/media/together.png": "/static/media/together.bff0eaa267ca8cee3359.png",
+    "static/media/peoples.png": "/static/media/peoples.d8bd0f1d6ff1d2562d4a.png",
+    "static/media/elephant2.png": "/static/media/elephant2.c8aa2a8487bc54a0a07c.png",
+    "static/media/mouse.webp": "/static/media/mouse.f6f7e85f77ec3172f08d.webp",
+    "static/media/bg.webp": "/static/media/bg.bfe30b527eb2ed2b5be9.webp",
+    "static/media/loin&loiness2.jpg": "/static/media/loin&loiness2.6ea6aeec9b14b8a0b1a2.jpg",
+    "static/media/stamp.png": "/static/media/stamp.0b63c64474d73fd37d27.png",
+    "static/media/Azonix.otf": "/static/media/Azonix.9091792cb1720a8c6ea0.otf",
+    "static/media/ads-campaign.png": "/static/media/ads-campaign.ec7ca014bbd459f2bbd1.png",
+    "index.html": "/index.html",
+    "main.c99f2595.css.map": "/static/css/main.c99f2595.css.map",
+    "main.2d15a857.js.map": "/static/js/main.2d15a857.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c99f2595.css",
+    "static/js/main.2d15a857.js"
+  ]
+}
